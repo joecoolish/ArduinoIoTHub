@@ -1,0 +1,21 @@
+{
+    "cSpell.words": [
+        "IOTHUB",
+        "IOTHUBMESSAGE",
+        "Razzle"
+    ],
+    "files.associations": {
+        "xtree": "cpp",
+        "array": "cpp",
+        "iosfwd": "cpp",
+        "xlocbuf": "cpp",
+        "istream": "cpp",
+        "memory": "cpp",
+        "type_traits": "cpp",
+        "xlocmes": "cpp",
+        "xlocmon": "cpp",
+        "xlocnum": "cpp",
+        "xloctime": "cpp",
+        "functional": "cpp"
+    }
+}
