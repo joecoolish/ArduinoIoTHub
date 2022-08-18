@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceRoot}",
+                "C:\\Users\\mrsli_000\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\**",
+                "C:\\Users\\mrsli_000\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.3\\**",
+                "L:\\Utils\\Arduino\\arduino-1.8.10-windows\\arduino-1.8.10\\hardware\\tools\\**",
+                "L:\\Utils\\Arduino\\arduino-1.8.10-windows\\arduino-1.8.10\\libraries\\**",
+                "L:\\Lisa\\Documents\\Arduino\\libraries\\**"
+            ],
+            "forcedInclude": [],
+            "intelliSenseMode": "msvc-x64",
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2017/BuildTools/VC/Tools/MSVC/14.16.27023/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "defines": [
+                "ARDUINO=10800",
+                "ARDUINO_ARCH_ESP8266"
+            ]
+        }
+    ],
+    "version": 4
+}
